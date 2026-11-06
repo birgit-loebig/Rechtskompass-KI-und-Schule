@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rechtskompass-ki-schule-hessen.de/sitemap.xml
